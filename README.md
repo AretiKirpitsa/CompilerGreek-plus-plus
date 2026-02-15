@@ -1,10 +1,10 @@
 # GREEK++ Compiler
-
-## Description
 This project implements a compiler for the educational programming language **greek++**.  
 The compiler reads a source file written in greek++ (`.gr`) and translates it into an equivalent **Assembly (`.asm`)** file.
 
 It was developed as part of the **“Μεταφραστές” (Compilers)** course at the **University of Ioannina**.
+
+## Description
 
 The compiler includes the following stages:
 
@@ -63,3 +63,4 @@ CompilerGreek++
 
 ## Educational Purpose
 This project is intended for **learning and experimentation** with compiler construction concepts such as parsing, semantic analysis, and low-level code generation.
+
