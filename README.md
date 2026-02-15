@@ -64,3 +64,9 @@ CompilerGreek++
 ## Educational Purpose
 This project is intended for **learning and experimentation** with compiler construction concepts such as parsing, semantic analysis, and low-level code generation.
 
+
+---
+
+## Team
+- Areti Kirpitsa
+- Athina Stasinou
